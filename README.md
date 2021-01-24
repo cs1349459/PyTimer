@@ -1,1 +1,1 @@
-# PyTimer
+A simple timer using python
